@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "my first stream",
+      "description": "new new new",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "the second one",
+      "id": 2
+    },
+    {
+      "title": "new stream in new account",
+      "description": "new new new",
+      "userId": "101846570834791512111",
+      "id": 5
+    },
+    {
+      "title": "Auto navigate on",
+      "description": "is it working??",
+      "userId": "101846570834791512111",
+      "id": 6
+    },
+    {
+      "title": "heloo there",
+      "description": "hi",
+      "userId": "101846570834791512111",
+      "id": 7
+    },
+    {
+      "title": "does streamform works",
+      "description": "with streamcreate and streamedit and blah",
+      "id": 8
+    },
+    {
+      "title": "onne  more",
+      "description": "ahhaahhajkajka",
+      "userId": "102132228299117072653",
+      "id": 9
+    }
+  ]
+}
